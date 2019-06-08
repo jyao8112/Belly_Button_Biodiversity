@@ -2,7 +2,7 @@
 
 ## Data Visualization Dashboard
 
-The Belly Button Analysis dashboard is available for a preview at [https://bellybutton-analysis.herokuapp.com/](https://bellybutton-analysis.herokuapp.com/).
+The Belly Button Analysis dashboard is available for a preview at [https://belly-button-biodiversity-jy.herokuapp.com](https://belly-button-biodiversity-jy.herokuapp.com).
 
  
 ------------------
